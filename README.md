@@ -26,7 +26,7 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
     * Hinzugefügt: Hwyla    
 * 2.1
     * HinzugefÃ¼gt: IC2
-
+    * Hinzugefuegt: Bloodmagic
 ## Bei Fragen:
 
 Telegram: @sierrakidd 
