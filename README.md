@@ -24,7 +24,8 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
     * Hinzugefügt: Aroma1997 Core
     * Hinzugefügt: Aroma1997 Dimensional World    
     * Hinzugefügt: Hwyla    
-
+* 2.1
+    * HinzugefÃ¼gt: IC2
 
 ## Bei Fragen:
 
