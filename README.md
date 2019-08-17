@@ -4,7 +4,8 @@
 ## Installation
 
 ```sh
-install.bat ausführen```
+install.bat ausführen
+```
 
 ## Usage example
 
